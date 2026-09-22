@@ -26,6 +26,7 @@ public class SinglyLinkedList<E extends Comparable<E>> {
             next = n;
         }
     }
+    
  
     public SinglyLinkedList(){
  
